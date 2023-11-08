@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working in Quantsapp as a Python Developer
 - 📫 How to reach me: ...
-    [Linkedin](https://www.linkedin.com/in/md-rameez-41907a1a0/)
+    [LinkedIn](https://www.linkedin.com/in/md-rameez-41907a1a0/)
 <!--
 **Haidram/Haidram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
