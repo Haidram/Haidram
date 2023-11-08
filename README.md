@@ -1,4 +1,4 @@
-[](https://github.com/Haidram/Haidram/blob/d1e02dbafa2ee5f1d7f6f3d932f5c4212c7a186d/Green%20and%20Cream%20Vintage%20Aesthetic%20Group%20Project%20Presentation.png)
+![](https://github.com/Haidram/Haidram/blob/main/Green%20and%20Cream%20Vintage%20Aesthetic%20Group%20Project%20Presentation.png)
 
 ### Hi there 👋
 
