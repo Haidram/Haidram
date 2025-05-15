@@ -1,4 +1,4 @@
-![](https://github.com/Haidram/Haidram/blob/main/1.png)
+![](https://github.com/Haidram/Haidram/blob/main/gihub_dp.png)
 
 ### Hi there 👋
 
